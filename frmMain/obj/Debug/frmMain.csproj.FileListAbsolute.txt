@@ -1,0 +1,17 @@
+c:\users\raymon\source\repos\frmMain\frmMain\obj\Debug\frmMain.csprojAssemblyReference.cache
+c:\users\raymon\source\repos\frmMain\frmMain\obj\Debug\frmMain.Form1.resources
+c:\users\raymon\source\repos\frmMain\frmMain\obj\Debug\frmMain.Properties.Resources.resources
+c:\users\raymon\source\repos\frmMain\frmMain\obj\Debug\frmMain.csproj.GenerateResource.cache
+c:\users\raymon\source\repos\frmMain\frmMain\obj\Debug\frmMain.csproj.CoreCompileInputs.cache
+c:\users\raymon\source\repos\frmMain\frmMain\bin\Debug\frmMain.exe.config
+c:\users\raymon\source\repos\frmMain\frmMain\bin\Debug\frmMain.exe
+c:\users\raymon\source\repos\frmMain\frmMain\bin\Debug\frmMain.pdb
+c:\users\raymon\source\repos\frmMain\frmMain\obj\Debug\frmMain.exe
+c:\users\raymon\source\repos\frmMain\frmMain\obj\Debug\frmMain.pdb
+c:\users\raymon\source\repos\frmMain\frmMain\obj\Debug\frmMain.frmScnd.resources
+C:\Users\Raymon\source\repos\frmMain\frmMain\obj\Debug\frmMain.thirdFrm.resources
+C:\Users\Raymon\source\repos\frmMain\frmMain\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+C:\Users\Raymon\source\repos\frmMain\frmMain\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\Raymon\source\repos\frmMain\frmMain\obj\Debug\frmMain.csproj.CopyComplete
+C:\Users\Raymon\source\repos\frmMain\frmMain\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.dll
+C:\Users\Raymon\source\repos\frmMain\frmMain\obj\Debug\frmMain.Form4.resources
